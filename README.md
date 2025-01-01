@@ -1,0 +1,2 @@
+# lovescript
+love
